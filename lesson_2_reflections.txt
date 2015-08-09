@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 .Git directory is created which is needed to track changes
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I can choose only the files I need to be tracked.
