@@ -9,3 +9,12 @@ I can choose only the files I need to be tracked.
 How can you use the staging area to make sure you have one commit per logical change?
 
 I can add only one file at the time.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+I can use branches to make different versions of projects. It is helpful since
+there will be separate histories for each of them.
+
+How do the diagrams help you visualize the branch structure?
+
+I can see what commits belong to what branches and what commits are reachable.
